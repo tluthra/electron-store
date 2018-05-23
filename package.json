@@ -9,6 +9,8 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "sindresorhus.com"
 	},
+	"module": "index.js",
+	"jsnext:main": "index.js",
 	"scripts": {
 		"test": "xo && ava"
 	},
